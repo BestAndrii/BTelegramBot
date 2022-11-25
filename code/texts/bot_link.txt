@@ -1,0 +1,11 @@
+Это ссылка на этого бота:
+https://t.me/BestProgTestBot
+
+Это ссылка на этого бота без «https://» в начале:
+t.me/BestProgTestBot
+
+Это имя данного бота:
+Best Prog Test Bot
+
+Это имя пользователя данного бота:
+@BestProgTestBot
